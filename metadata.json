@@ -1,0 +1,6 @@
+{
+  "name": "Cinemachord — Synchronized Movie Watching",
+  "description": "Campus-notebook synchronized cinema rooms with real-time video playback, 6-digit join codes, and interactive screening library.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
